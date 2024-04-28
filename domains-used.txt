@@ -1,4 +1,3 @@
-return_url
 usps.cargofollow-address.top
 usps.trackfreight-address.top
 usps.parceltrackers-address.top
